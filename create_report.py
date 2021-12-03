@@ -92,7 +92,7 @@ def plot_function(dataframe,title, x_name, stacking=False, plot_kind='bar'):
             plot = dataframe.sort_index().plot(kind=plot_kind, stacked=stacking, autopct='%1.0f%%')
         plot.set_title(title)
         plot.set_xlabel(x_name)
-        plot.set_ylabel('Number of modificationss')
+        plot.set_ylabel('Number of modifications')
         plt.savefig(f'Plots/{title}')
         plt.show()
 

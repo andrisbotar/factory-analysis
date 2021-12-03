@@ -15,4 +15,7 @@ located within the MM8 production area.
 - Genuine modifications are numbered “YYYY-nnnn”, where “YYYY” is the year of
 creation and “nnnn” is a unique identifier.
 
+It produces plots for how many modifications were made in each area, broken down by year or plant type. 
+And it shows which projects were resposnsible for the most mods.
+
 The data contains no sensitive information and I have been given permission to share it.
